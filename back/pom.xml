@@ -16,6 +16,7 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	<!-- To simulate commit for running github action -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
